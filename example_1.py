@@ -1,5 +1,5 @@
-# The following function should return a sorted array of n random numbers
-# between 0 and 1. But it doesn't:
+# We want the following function to return a sorted array of n random numbers
+# between 0 and 1. But it doesn't currently:
 #
 # $ python example_1.py
 # Sorted random values:  None
